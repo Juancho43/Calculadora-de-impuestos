@@ -2,3 +2,14 @@ C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\obj\Debu
 C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\obj\Debug\net8.0\CalculadoraImpuestos.AssemblyInfoInputs.cache
 C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\obj\Debug\net8.0\CalculadoraImpuestos.AssemblyInfo.cs
 C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\obj\Debug\net8.0\CalculadoraImpuestos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\bin\Debug\net8.0\CalculadoraImpuestos.exe
+C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\bin\Debug\net8.0\CalculadoraImpuestos.deps.json
+C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\bin\Debug\net8.0\CalculadoraImpuestos.runtimeconfig.json
+C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\bin\Debug\net8.0\CalculadoraImpuestos.dll
+C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\bin\Debug\net8.0\CalculadoraImpuestos.pdb
+C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\obj\Debug\net8.0\CalculadoraImpuestos.sourcelink.json
+C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\obj\Debug\net8.0\CalculadoraImpuestos.dll
+C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\obj\Debug\net8.0\refint\CalculadoraImpuestos.dll
+C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\obj\Debug\net8.0\CalculadoraImpuestos.pdb
+C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\obj\Debug\net8.0\CalculadoraImpuestos.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\CalculadoraImpuestos\CalculadoraImpuestos\obj\Debug\net8.0\ref\CalculadoraImpuestos.dll

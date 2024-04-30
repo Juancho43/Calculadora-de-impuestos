@@ -10,12 +10,17 @@ namespace CalculadoraImpuestos.Model
     {
         private long Id {  get; set; }
         private string Name { get; set; }
-        private double Quantity {  get; set; }
+        private decimal Quantity {  get; set; }
 
-        public Tax(long id, string name, double quantity) {
+        public Tax(long id, string name, decimal quantity) {
             Id = id;
             Name = name;
             Quantity = quantity;
+        }
+
+        public decimal GetQuantity()
+        {
+            return Quantity;
         }
         public override string ToString()
         {

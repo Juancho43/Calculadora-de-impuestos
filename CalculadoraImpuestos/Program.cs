@@ -1,3 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("HOLAAAAAA");
+﻿using CalculadoraImpuestos.Model;
+using CalculadoraImpuestos.Static;
+
+
+AppStatic.InstanciarTodo();
+
+List<Order> orders = AppStatic.orders;
+Console.WriteLine("\nLista de Órdenes:");
+foreach (Order order in orders)
+{
+    Console.WriteLine(order);
+    Console.WriteLine("--------------------"); 
+}

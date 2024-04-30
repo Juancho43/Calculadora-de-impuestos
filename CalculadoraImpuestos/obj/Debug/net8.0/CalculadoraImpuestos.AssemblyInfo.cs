@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraImpuestos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8e4f63eeca37d494030b846da8eb734fc66265b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraImpuestos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraImpuestos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,7 +10,7 @@ namespace CalculadoraImpuestos.Model
     {
         private long Id {  get; set; }
         private string Name { get; set; }
-        private string ShortName { get; set; }
+        private string ShortName; 
         private Tax Tax { get; set; }
 
         public Country(long id, string name, string shortName, Tax tax) {
@@ -19,9 +19,20 @@ namespace CalculadoraImpuestos.Model
             ShortName = shortName;
             Tax = tax;
         }
+        public String Short_Name
+        {
+            get { return ShortName; }
+            set { if (value != "") ShortName = value; }
+        }
+         
+        public decimal GetTaxQuantity()
+        {
+            return Tax.GetQuantity();
+        }
+
         public override string ToString()
         {
-            return "Name : " + Name + "Tax : " + Tax;
+            return "Name : " + Name + ", Tax : " + Tax;
         }
 
     }
